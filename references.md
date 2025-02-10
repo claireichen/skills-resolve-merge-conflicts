@@ -1,3 +1,3 @@
-# References
 
-* octocat 1 😈
+here is some text that conflicts with main branch
+
